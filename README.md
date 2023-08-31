@@ -1,4 +1,4 @@
-# BasicDataAnalysisTut
+# Basic Data Analysis Tutorial- Python
 This is a python data analysis tutorial , 
 you will learn how to use data exploration and fix the data frame such as dealing with missing values, 
 adding header and changing the wrong data type. 
