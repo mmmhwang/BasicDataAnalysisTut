@@ -5,4 +5,5 @@ adding header and changing the wrong data type.
 Understanding data normalization, data binning, dummy variables, correlation and constructing appropriate models. 
 
 https://www.coursera.org/learn/data-analysis-with-python
+
 #This projects is licensed [#LICENSE].
